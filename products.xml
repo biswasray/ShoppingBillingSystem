@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products id="1">
+    <products>
+        <price>0.0</price>
+        <proMrp>5.0</proMrp>
+        <proName>chips</proName>
+        <proNo>1</proNo>
+        <qty>0</qty>
+    </products>
+</products>

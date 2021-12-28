@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<products id="1">
+    <products>
+        <price>0.0</price>
+        <proMrp>10.0</proMrp>
+        <proName>coke</proName>
+        <proNo>1</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>5.0</proMrp>
+        <proName>chips</proName>
+        <proNo>2</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>40.0</proMrp>
+        <proName>Kinder Joy</proName>
+        <proNo>3</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>200.0</proMrp>
+        <proName>Mobile cover</proName>
+        <proNo>4</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>5.0</proMrp>
+        <proName>Maggi</proName>
+        <proNo>5</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>180.0</proMrp>
+        <proName>Cadbury Silk</proName>
+        <proNo>6</proNo>
+        <qty>0</qty>
+    </products>
+    <products>
+        <price>0.0</price>
+        <proMrp>20.0</proMrp>
+        <proName>Manforce condom</proName>
+        <proNo>7</proNo>
+        <qty>0</qty>
+    </products>
+</products>
